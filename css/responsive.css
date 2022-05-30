@@ -1,0 +1,794 @@
+@media(min-width: 1200px) and (max-width: 1399.99px){
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6,p {
+        margin-bottom: 0;
+    }
+
+    .foot_2nd_item{
+        overflow-y: scroll;
+        width: 100%;
+        height: 375px;
+        overflow-x: hidden;
+    }
+
+    .foot_text{
+        padding: 0 3px;
+    }
+
+    .footer_icon a i {
+        font-size: 22px;
+        margin: 0 10px;
+    }
+
+    .mt-4 {
+        margin-top: 3.5rem !important;
+    }
+
+    .text-row h1 {
+        font-size: 126px;  
+    }
+
+    .text-row h2 {
+        margin-top: 72px;
+    }
+
+    .only-after::after {
+        display: none;
+    }
+
+    .only-after:nth-child(5)::before {
+        display: none;
+    }
+
+    #main_footer .footer_section_one input{
+        width: 49%;
+    }
+
+    #main_footer .footer_section_one button {
+        position: inherit;
+        right: 0;
+        top: 0;
+        width: 49%;
+        border: 0;
+    }
+
+    .mt-4 {
+        margin-top: 1.5rem !important;
+    }
+
+    .footer_icon{
+        padding: 30px 0;
+    }
+
+    input {
+        margin-top: 8px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1220px){
+    .text-row a {
+        margin-top: 45px;
+    }
+
+    .text-row h1::after {
+        bottom: -10px;
+    }
+}
+
+
+
+
+@media(min-width: 992px) and (max-width: 1199.99px){
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6,p {
+        margin-bottom: 0;
+    }
+    /* ==========Counter Part End========= */
+
+    .team_icon a i {
+        font-size: 24px;
+        line-height: 48px;
+        width: 48px;
+        height: 48px;
+    }
+
+    .footer_icon{
+        padding-top: 30px;
+    }
+
+    .foot_2nd_item{
+        overflow-y: scroll;
+        width: 300px;
+        height: 400px;
+        overflow-x: hidden;
+    }
+    /* ===========Team Part End=========== */
+
+    input {
+        width: 49%;
+    }
+
+    #main_footer .footer_section_one button {
+        position: inherit;
+        right: 0;
+        top: 0;
+        width: 49%;
+        border: 0;
+    }
+
+    .footer_icon span {
+        font-size: 19px;
+    }
+
+    .narrow_img{
+        transform: scaleX(.9);
+    }
+
+    .footer_icon a i {
+        font-size: 20px;
+        margin: 0 6px;
+    }
+
+    /* ==========Footer Part End========== */
+
+    .text-row h2 {
+        font-size: 72px;
+        margin-top: 45px;
+    }
+
+    .text-row h1 {
+        font-size: 80px;
+    }
+
+    .text-row h1::after {
+        bottom: -34px;
+    }
+
+    /* ==========Banner Paer End========== */
+    .only-after::after {
+        display: none;
+    }
+
+    .only-after:nth-child(5)::before {
+        display: none;
+    }
+
+    /* ===========Counter Part End========== */
+}
+
+@media(min-width: 1120px) and (max-width: 1199.99px){
+    .text-row h1 {
+        font-size: 100px;
+    }
+}
+
+
+
+@media(min-width: 768px) and (max-width: 991.99px){
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6,p {
+        margin-bottom: 0;
+    }
+
+    .text-row a {
+        margin-top: 56px;
+    }
+
+    .btn i{
+        font-size: 35px;
+        color: #fff;
+    }
+
+    .btn-check:focus + .btn, .btn:focus {
+        box-shadow: none;
+    }
+
+    .offcanvas-start {
+        width: 100%;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #f38181;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .nav-item{
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .blog_head h3 {
+        margin-top: 15px;
+    }
+
+    .ins_head h3 {
+        margin-top: 34px;
+    }
+
+    .footer_icon a i {
+        font-size: 21px;
+        margin: 0 16px;
+    }
+
+    .footer_icon span {
+        font-size: 18px;
+    }
+
+    .mt-4 {
+        margin-top: 3.5rem !important;
+    }
+
+    input {
+        width: 49%;
+    }
+
+    #main_footer .footer_section_one button {
+        position: inherit;
+        right: 0;
+        top: 0;
+        width: 50%;
+        border: 0;
+    }
+
+    .team_icon a i {
+        font-size: 23px;
+        line-height: 50px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .main-message p {
+        text-align: left;
+    }
+
+    .serv-text{
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .serv-text p{
+        padding: 0 150px;
+    }
+
+    .only-after::after {
+        display: none;
+    }
+
+    .only-after:nth-child(5)::before {
+        display: none;
+    }
+
+    .text-row a {
+        margin-top: 26px;
+    }
+
+    .text-row h1 {
+        font-size: 65px;
+    }
+
+    .text-row h2 {
+        font-size: 58px;
+        margin-top: 60px;
+    }
+
+    .text-row h1::after {
+        bottom: -17px;
+    }
+
+    .text-row a {
+        margin-top: 40px;
+        border: 3px solid #fff;
+        padding: 8px 30px;
+    }
+
+    .mt-4 {
+        margin-top: 3.5rem !important;
+    }
+
+    .foot_2nd_item{
+        overflow-y: scroll;
+        width: 100%;
+        height: 400px;
+        overflow-x: hidden;
+        margin-top: 20px;
+    }
+
+    .mt-4 {
+        margin-top: 1.5rem !important;
+    }
+
+    .footer_icon{
+        padding: 35px 0;
+    }
+
+    input {
+        margin-top: 0px;
+    }
+}
+
+@media(min-width: 930px) and (max-width: 991.99px){
+    .text-row h1 {
+        font-size: 76px;
+    }
+
+    .text-row h2 {
+        font-size: 70px;
+    }
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.99px){
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6,p {
+        margin-bottom: 0;
+    }
+
+    .text-row h2 {
+        font-size: 58px;
+        margin-top: 30px;
+    }
+
+    .text-row h1 {
+        font-size: 44px;
+    }
+
+    .text-row h1::after {
+        display: none;
+    }
+
+    .text-row a {
+        margin-top: 25px;
+        border: 2px solid #fff;
+        padding: 8px 28px;
+    }
+
+    /* ========Banner Part End=========== */
+
+    .btn i{
+        font-size: 30px;
+        color: #fff;
+    }
+
+    .btn-check:focus + .btn, .btn:focus {
+        box-shadow: none;
+    }
+
+    .navbar {
+        padding-top: 0.2rem;
+        padding-bottom: 0.2rem;
+    }
+
+    .offcanvas-start {
+        width: 100%;    
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #f38181;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .nav-item{
+        text-align: center;
+    }
+
+    .navbar button {
+        width: 42px;
+    }
+
+    /* =========Navbar Part End========== */
+
+    .only-after::after {
+        width: 100%;
+        height: 1.5px;
+        bottom: 0;
+    }
+
+    .only-after:first-child::after{
+        display: none;
+    }
+
+    .only-after:nth-child(5)::before {
+        display: none;
+    }
+    /* ============Counter Part End============= */
+
+    .serv-text{
+        text-align: center;
+    }
+
+    .serv-text p {
+        padding: 0 60px;
+    }
+
+    /* ===========Service Part End============= */
+
+    .mess-icon{
+        text-align: center;
+    }
+
+    .main-message p {
+        padding-left: 0;
+        padding-right: 0;
+        font-size: 22px;
+        margin-top: 16px;
+    }
+
+    .main-message{
+        text-align: center;
+    }
+
+    /* ===========Message Part End============ */
+
+    .footer_icon span {
+        font-size: 20px;
+    }
+
+    .footer_icon a i {
+        color: #95e1d3;
+        font-size: 25px;
+        margin: 0 12px;
+    }
+
+    .mt-4 {
+        margin-top: 3rem !important;
+    }
+
+    #main_footer .footer_section_one input  {
+        width: 49%;
+    }
+
+    #main_footer .footer_section_one button {
+        position: inherit;
+        width: 50%;
+        right: 0;
+        top: 0;
+        border: 0;
+    }
+
+    .blog_head{
+        margin-top: 15px;
+    }
+
+    .ins_head{
+        margin-top: 15px;
+    }
+
+    .only-after::after {
+        display: none;
+    }
+
+    /* ============Footer Part End=========== */
+}
+
+
+
+@media(min-width: 700px) and (max-width: 767.99px){
+    .text-row h2 {
+        font-size: 52px;
+        margin-top: 25px;
+    }
+
+    .text-row h1 {
+        font-size: 47px;
+    }
+
+    .text-row a {
+        margin-top: 60px;
+    }
+
+    .text-row h1::after {
+        display: block;
+    }
+}
+
+
+@media(max-width: 575.99px){
+    .navbar {
+        padding-top: 0.2rem;
+        padding-bottom: 0.2rem;
+    }
+
+    .btn {
+        font-size: 23px;
+    }
+
+    button {
+        width: 40px;
+        height: 40px;
+    }
+
+    .navbar-nav{
+        text-align: center;
+    }
+
+    .navbar-brand{
+        transform: scale(.7);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .btn-check:focus + .btn, .btn:focus {
+        box-shadow: none;
+    }
+
+    .text-row h1 {
+        font-size: 25px;
+        margin-top: 5px;
+    }
+
+    .navbar-toggler i {
+        color: #ffffff;
+    }
+
+    button i {
+        color: #ffffff;
+    }
+
+    .btn-check:focus + .btn, .btn:focus {
+        box-shadow: none;
+    }
+
+    .btn-check:focus + .btn-primary, .btn-primary:focus {
+        background-color: transparent;
+    }
+
+    .btn{
+        background: transparent;
+        border: transparent;
+    }
+
+    .btn:hover{
+        background: transparent;
+    }
+
+    .text-row h1::after {
+        display: none;
+    }
+
+    .text-row h2 {
+        font-size: 26px;
+        margin-top: 30px;
+    }
+
+    .text-row a {
+        font-size: 14px;
+        border: 2px solid #fff;
+        margin-top: 10px;
+        padding: 5px 8px;
+    }
+
+    .text-row{
+        margin-top: 13px;
+    }
+
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+        margin-bottom: 0;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #f38181;
+    }
+
+    /* ============About Part Star============== */
+
+    #about {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .heading h3{
+        font-size: 24px
+    }
+
+    .heading h4{
+        font-size: 20px;
+    }
+
+    .heading h3::after {
+        bottom: -13px;
+    }
+
+    .offcanvas-start {
+        width: 100%;
+    }
+
+    /* =============About Part End============== */
+
+    /* ============Service Part Star============= */
+
+    #service {
+        padding-top: 15px;
+        padding-bottom: 45px;
+    }
+
+    .heading h4 {
+        margin-bottom: 5px;
+    }
+
+    .serv-text{
+        text-align: center;
+    }
+
+    .serv-icon{
+        margin-bottom: 10px;
+    }
+
+    /* ==============Service Part End============== */
+
+    /* ===================Team Part Star=============== */
+    #main_team {
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+
+    .team_icon a i {
+        font-size: 22px;
+        line-height: 45px;
+        width: 45px;
+        height: 45px;
+    }
+
+    .for_width{
+        margin: 0 auto;
+    }
+    /* ==================Team Part End================= */
+
+    /* ================Message Part Star=============== */
+
+    .message-left-icon{
+        display: none;
+    }
+
+    .only-after:nth-child(5)::before {
+        display: none;
+    }
+
+    .mess-icon{
+        text-align: center;
+    }
+
+    .mess-icon i {
+        width: 125px;
+        height: 125px;
+        line-height: 125px;
+    }
+
+    .main-message{
+        text-align: center;
+    }
+
+    .main-message p {
+        font-size: 18px;
+        margin-top: 12px;
+    }
+
+    .main-message p {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #main-message {
+        padding-bottom: 0px;
+    }
+
+    /* =================Message Part End=============== */
+
+    /* ================Footer Part Star=============== */
+    .footer_icon span {
+        font-size: 14px;
+    }
+
+    .footer_icon a i {
+        font-size: 17px;
+        margin: 0 4px;
+    }
+
+    #main_footer .footer_section_one button {
+        position: inherit;
+        right: 0;
+        top: 0;
+        width: 100%;
+        border: 0;
+        margin-top: 15px;
+    }
+
+    input {
+        width: 100%;
+        padding: 10px 0 10px 15px;
+        margin-top: 20px;
+    }
+
+    .blog_head h3 {
+        margin-bottom: 38px;
+        margin-top: 25px;
+    }
+    /* ===================Footer Part End============= */
+
+    /* ================Counter Part Star=============== */
+    .only-after::after {
+        display: none;
+    }
+
+    .ins_head h3 {
+        margin-top: 15px;
+    }
+    /* ==================Counter Part End============== */
+}
+
+@media (min-width: 500px) and (max-width: 575.99px){
+    .serv-text p {
+        padding: 0 40px;
+    }
+
+    #main_team .row > * {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+
+    .text-row h1 {
+        font-size: 44px;
+    }
+
+    .text-row h2 {
+        font-size: 50px;
+    }
+
+    .text-row {
+        margin-top: 23px;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 575.99px){
+    .footer_icon a i {
+	font-size: 21px;
+}
+}
+
+@media (min-width: 500px) and (max-width:575.99px){
+    .team_icon a i {
+        font-size: 28px;
+        line-height: 52px;
+        width: 52px;
+        height: 52px;
+    }
+}
+
+@media (min-width: 380px) and (max-width: 575.99px){
+    .footer_icon span {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 410px) and (max-width: 575.99px){
+    .footer_icon a i {
+        margin: 0 6px;
+    }
+}
+
+@media (min-width: 440px) and (max-width: 575.99px){
+    .footer_icon a i {
+        margin: 0 8px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 575.99px){
+    .footer_icon a i {
+        margin: 0 10px;
+    }
+}
+
+@media (min-width: 540px) and (max-width: 575.99px){
+    .footer_icon a i {
+        margin: 0 12px;
+    }
+}
+
